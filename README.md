@@ -1,8 +1,4 @@
-#Image Recognition of Disease-Carrying Insects: A System for Combating Infectious Diseases using Image Classification Techniques and Citizen Science
-
-<!-- ## Welcome
-
-This is the home page for the repositories that are  related to this project.-->
+# Image Recognition of Disease-Carrying Insects: A System for Combating Infectious Diseases using Image Classification Techniques and Citizen Science
 
 ## Related Publication
 ### If you use part of this code or extend the applications developed for this project, please cite: 
@@ -25,7 +21,7 @@ J. Pablo Muñoz, Rebecca Boger, Scott Dexter, Russane Low, and Justin Li. **Imag
 
 [Here](https://github.com/jpablomch/ExpertValidation)
 
-##Python Applications
+## Python Applications
 
 ### Recognition Server
 
