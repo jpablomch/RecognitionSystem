@@ -25,7 +25,7 @@ J. Pablo Muñoz, Rebecca Boger, Scott Dexter, Russane Low, and Justin Li. **Imag
 
 ### Recognition Server
 
-[Here]()
+[Here](https://github.com/jpablomch/RecognitionServer)
 
 ## Prerequisites and Dependencies 
 
