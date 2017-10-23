@@ -3,7 +3,7 @@
 ## Related Publication
 ### If you use part of this code or extend the applications developed for this project, please cite: 
 
-J. Pablo Muñoz, Rebecca Boger, Scott Dexter, Russane Low, and Justin Li. **Image Recognition of Disease-Carrying Insects: A System for Combating Infectious Diseases using Image Classification Techniques and Citizen Science**. HICSS – The Hawaii International Conference on System Sciences 2018.
+J. Pablo Muñoz, Rebecca Boger, Scott Dexter, Russane Low, and Justin Li. **Image Recognition of Disease-Carrying Insects: A System for Combating Infectious Diseases using Image Classification Techniques and Citizen Science**, in The Hawaii International Conference on System Sciences (HICSS-51), 2018.
 
 [![Recognition System Video](http://img.youtube.com/vi/iTjd30SCaqQ/hqdefault.jpg)](https://youtu.be/iTjd30SCaqQ?rel=0)
 
